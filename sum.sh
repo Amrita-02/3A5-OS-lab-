@@ -1,3 +1,4 @@
+#!/bin/bash
 #program 7
 read -p "Enter first number: " num1
 read -p "Enter second number: " num2

@@ -1,3 +1,4 @@
+#!/bin/bash
 #program 4
 n=5
 for((i=1;i<=n;i++))

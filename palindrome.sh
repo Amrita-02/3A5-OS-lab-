@@ -1,6 +1,6 @@
 #!/bin/bash
 #program 2
-#asking user for input
+#Asking for user input
 read -p "Enter string: " str
 
 rev_str=$(rev <<< "$str")
